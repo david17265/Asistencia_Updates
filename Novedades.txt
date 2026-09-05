@@ -1,5 +1,8 @@
-¡Novedades en v0.2.8!
-- FOTOS DE PERFIL: Ahora puedes subir tu foto desde el Dashboard.
-- IDENTIDAD EN CHAT: Tu foto aparecerá al lado de tus mensajes.
-- GLOBOS DE CHAT: Diseño mejorado y más intuitivo.
-- CORRECCIONES: Mejoras en la carga de datos del estudiante.
+¡Novedades en v0.2.9 Beta!
+
+- HORARIO INTERACTIVO: Nuevo sistema de edición por bloques de 40 min con colores pastel por materia.
+- EXPORTACIÓN PDF: Genera tu horario en formato profesional tamaño carta, centrado y a color, listo para imprimir.
+- REGISTRO DOCENTE AVANZADO: Nuevo flujo obligatorio con Cédula (V/E), Año Guía y Secciones (A hasta la M).
+- AUTOMATIZACIÓN: Materias de "Orientación" y "Participación" se añaden solas si eres docente guía.
+- RENDIMIENTO: Se ha eliminado la IA para asegurar que la app funcione gratis al 100% y sea más ligera.
+- FOTOS DE PERFIL: Lógica de fotos corregida para ser círculos perfectos en el panel y en el chat.
