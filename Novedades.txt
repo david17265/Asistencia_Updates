@@ -1,7 +1,5 @@
-¡Nuevas funciones disponibles en v0.2.7!
-
-- NUEVO CHAT: Comunicación en tiempo real entre estudiantes y profesores por cada materia.
-- HERRAMIENTAS: Nueva sección en el panel del estudiante.
-- CHAT TUTOR: Botón dedicado para que el profesor responda dudas de sus alumnos.
-- LEGIBILIDAD: Ajuste total de colores en todos los campos para una lectura perfecta.
-- SOPORTE MULTIMEDIA: Carga de horarios en formatos JPG, PNG y PDF optimizada.
+¡Novedades en v0.2.8!
+- FOTOS DE PERFIL: Ahora puedes subir tu foto desde el Dashboard.
+- IDENTIDAD EN CHAT: Tu foto aparecerá al lado de tus mensajes.
+- GLOBOS DE CHAT: Diseño mejorado y más intuitivo.
+- CORRECCIONES: Mejoras en la carga de datos del estudiante.
